@@ -1,0 +1,20 @@
+.shop-list tr{
+    vertical-align: middle;
+}
+
+
+.single_product {
+    text-align: center;
+}
+
+.single_product img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 10px solid #fff;
+}
+
+i {
+    pointer-events: none;
+}
